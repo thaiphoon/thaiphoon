@@ -1,10 +1,14 @@
 ![Banner](crystal-dragon-1920x1080_multi.jpg)
-### Hi there 👋, my name is Niklas
-#### I am an Agile Coach and in training to be a Java Developer
+# Niklas Holmström (@thaiphoon)
+Hi there 👋, I am Niklas Holmström.
+I am an Agile Coach, Scrum Master and Product Owner in training to be a Java Developer.
 
 Brief intro about me
 
-Skills: Agile / Scrum / Kanban / SAFe / Java
+## Skills & Experience: 
+🏃 Agile / Scrum Master / Product Owner / Agile Coach / Scrum / Kanban / SAFe
+♨️ Java
+🖥️ HTML, CSS, JS
 
 - 🔭 I’m currently working on training to be a Java Developer 
 - 🌱 I’m currently learning Java 
