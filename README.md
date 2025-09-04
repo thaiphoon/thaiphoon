@@ -1,6 +1,6 @@
+![Banner](crystal-dragon-1920x1080_multi.jpg)
 ### Hi there 👋, my name is Niklas
 #### I am an Agile Coach and in training to be a Java Developer
-![I am an Agile Coach and in training to be a Java Developer](crystal-dragon-1920x1080_multi.jpg)
 
 Brief intro about me
 
