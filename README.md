@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Niklas
 #### I am an Agile Coach and in training to be a Java Developer
-![I am an Agile Coach and in training to be a Java Developer](https://media.licdn.com/dms/image/v2/C5616AQGfYQfGD-cErQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516284601561?e=1759968000&v=beta&t=O9U_B3hTY8G38PghKzMIboVFevOgFHd7m8NwPpqYrxs)
+![I am an Agile Coach and in training to be a Java Developer](crystal-dragon-1920x1080_multi.jpg)
 
 Brief intro about me
 
