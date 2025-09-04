@@ -3,9 +3,7 @@
 
 Hi there 👋, 
 
-I am Niklas Holmström.
-
-I am an Agile Coach, Scrum Master and Product Owner in training to be a Java Developer.
+I am Niklas Holmström - an Agile Coach, Scrum Master and Product Owner in training to be a Java Developer.
 
 Brief info about me...
 
